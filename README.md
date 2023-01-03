@@ -100,10 +100,9 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Haojun Jiang, Jianke Zhang, Rui Huang, Chunjiang Ge, Zanlin Ni, Jiwen Lu, Jie Zhou, Shiji Song, Gao Huang.* [[Paper](https://arxiv.org/abs/2211.09623)][[Code](https://github.com/LeapLabTHU/Cross-Modal-Adapter)]
 
-- **SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters**， EMNLP 2022 (arXiv:2210.04284). ![](https://img.shields.io/badge/-SparseAdapter-blue) ![](https://img.shields.io/badge/-GLUE%20Benchmark-green) ![](https://img.shields.io/badge/-Pretrained%20Language%20Model-orange)
+- **SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters**, EMNLP 2022 (arXiv:2210.04284). ![](https://img.shields.io/badge/-SparseAdapter-blue) ![](https://img.shields.io/badge/-GLUE%20Benchmark-green) ![](https://img.shields.io/badge/-Pretrained%20Language%20Model-orange)
  
   *Shwai He, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao.*[[Paper](https://arxiv.org/pdf/2210.04284.pdf)][[Code](https://github.com/Shwai-He/SparseAdapter)]
-
 
 ### Unified
 
