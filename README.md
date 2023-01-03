@@ -114,6 +114,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
 - Check out [thunlp/DeltaPapers](https://github.com/thunlp/DeltaPapers) if you are interested in the progress of NLP domain.
 
+- **LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning,** NeurIPS 2022 (arXiv:2206.06522). ![](https://img.shields.io/badge/LST-blue) ![](https://img.shields.io/badge/GLUE,_VQA,_Visual_Reasoning,_Image_Caption-green) ![](https://img.shields.io/badge/Side_Tuning-orange)
+
+  *Yi-Lin Sung, Jaemin Cho, Mohit Bansal.* [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)]
+
 ## Contribution
 
 ### Contributors
