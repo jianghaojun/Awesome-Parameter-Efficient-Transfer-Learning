@@ -57,6 +57,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Hyojin Bahng, Ali Jahanian, Swami Sankaranarayanan, Phillip Isola.* [[Paper](https://arxiv.org/abs/2203.17274)][[Code](https://github.com/hjbahng/visual_prompting)]
 
+- **P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting,** arXiv:2208.02812. ![](https://img.shields.io/badge/P2P-blue) ![](https://img.shields.io/badge/PointCloud-green) ![](https://img.shields.io/badge/2D_to_3D-orange)
+
+  *Ziyi Wang, Xumin Yu, Yongming Rao, Jie Zhou, Jiwen Lu.* [[Paper](https://arxiv.org/abs/2208.02812)][[Code](https://github.com/wangzy22/P2P)]
+
 - **Class-Aware Visual Prompt Tuning for Vision-Language Pre-Trained Model,** arXiv:2208.08340. ![](https://img.shields.io/badge/CAVPT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Joint_Prompt-orange)
 
   *Yinghui Xing, Qirui Wu, De Cheng, Shizhou Zhang, Guoqiang Liang, Yanning Zhang.* [[Paper](https://arxiv.org/abs/2208.08340)][Code]
