@@ -69,17 +69,41 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Yinghui Xing, Qirui Wu, De Cheng, Shizhou Zhang, Guoqiang Liang, Yanning Zhang.* [[Paper](https://arxiv.org/abs/2208.08340)][Code]
 
+- **Prompt Tuning with Soft Context Sharing for Vision-Language Models,** arXiv:2208.13474. ![](https://img.shields.io/badge/SoftCPT-blue) ![](https://img.shields.io/badge/Image_Classification-green)
+
+  *Kun Ding, Ying Wang, Pengzhang Liu, Qiang Yu, Haojian Zhang, Shiming Xiang, Chunhong Pan.* [[Paper](https://arxiv.org/abs/2208.13474)][Code]
+
+- **Language-Aware Soft Prompting for Vision & Language Foundation Models,** arXiv:2210.01115. ![](https://img.shields.io/badge/LASP-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Language_Aware_Prompt-orange)
+
+  *Adrian Bulat, Georgios Tzimiropoulos.* [[Paper](https://arxiv.org/abs/2210.01115)][Code]
+
+- **Prompt Learning with Optimal Transport for Vision-Language Models,** arXiv:2210.01253. ![](https://img.shields.io/badge/Image_Classification-green)
+
+  *Guangyi Chen, Weiran Yao, Xiangchen Song, Xinyue Li, Yongming Rao, Kun Zhang.* [[Paper](https://arxiv.org/abs/2210.01253)][Code]
+
 - **MaPLe: Multi-modal Prompt Learning,** arXiv:2210.03117. ![](https://img.shields.io/badge/MaPLe-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Pixel_Level_Prompt-orange)
 
   *Muhammad Uzair Khattak, Hanoona Rasheed, Muhammad Maaz, Salman Khan, Fahad Shahbaz Khan.* [[Paper](https://arxiv.org/abs/2210.03117)][[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)]
+
+- **SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models,** arXiv:2210.03794. ![](https://img.shields.io/badge/SVL_Adapter-blue) ![](https://img.shields.io/badge/Image_Classification-green)
+
+  *Omiros Pantazis, Gabriel Brostow, Kate Jones, Oisin Mac Aodha.* [[Paper](https://arxiv.org/abs/2210.03794)][[Code](https://github.com/omipan/svl_adapter)]
 
 - **Unified Vision and Language Prompt Learning,** arXiv:2210.07225. ![](https://img.shields.io/badge/UPT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Joint_Prompt-orange)
 
   *Yuhang Zang, Wei Li, Kaiyang Zhou, Chen Huang, Chen Change Loy.* [[Paper](https://arxiv.org/abs/2210.07225)][[Code](https://github.com/yuhangzang/UPT)]
 
+- **CPL: Counterfactual Prompt Learning for Vision and Language Models,** arXiv:2210.10362. ![](https://img.shields.io/badge/CPL-blue) ![](https://img.shields.io/badge/Image_Classification-green)
+
+  *Xuehai He, Diji Yang, Weixi Feng, Tsu-Jui Fu, Arjun Akula, Varun Jampani, Pradyumna Narayana, Sugato Basu, William Yang Wang, Xin Eric Wang.* [[Paper](https://arxiv.org/abs/2210.10362)][[Code](https://github.com/yuhangzang/UPT)]
+
 - **Understanding and Improving Visual Prompting: A Label-Mapping Perspective,** arXiv:2211.11635. ![](https://img.shields.io/badge/ILM_VP-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Pixel_Level_Prompt-orange)
 
   *Aochuan Chen, Yuguang Yao, Pin-Yu Chen, Yihua Zhang, Sijia Liu.* [[Paper](https://arxiv.org/abs/2211.11635)][[Code](https://github.com/OPTML-Group/ILM-VP)]
+
+- **Texts as Images in Prompt Tuning for Multi-Label Image Recognition,** arXiv:2211.12739. ![](https://img.shields.io/badge/TaI_DPT-blue) ![](https://img.shields.io/badge/Multilabel_Image_Classification-green)
+
+  *Zixian Guo, Bowen Dong, Zhilong Ji, Jinfeng Bai, Yiwen Guo, Wangmeng Zuo.* [[Paper](https://arxiv.org/abs/2211.12739)][[Code](https://github.com/guozix/TaI-DPT)]
 
 - **VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval,** arXiv:2211.12764. ![](https://img.shields.io/badge/VoP-blue) ![](https://img.shields.io/badge/Text_Video_Retrieval-green) ![](https://img.shields.io/badge/Joint_Prompt-orange)
 
@@ -102,6 +126,11 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 - **Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets,** arXiv:2208.07463. ![](https://img.shields.io/badge/Conv_Adapter-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Design_for_ConvNet-orange)
 
   *Hao Chen, Ran Tao, Han Zhang, Yidong Wang, Wei Ye, Jindong Wang, Guosheng Hu, Marios Savvides.* [[Paper](https://arxiv.org/abs/2208.07463)][Code]
+
+- **Effective Adaptation in Multi-Task Co-Training for
+Unified Autonomous Driving,** NeurIPS 2022 (arXiv:2209.08953). ![](https://img.shields.io/badge/LV_Adapter-blue) ![](https://img.shields.io/badge/Detection,_Segmentation-green)
+
+  *Xiwen Liang, Yangxin Wu, Jianhua Han, Hang Xu, Chunjing Xu, Xiaodan Liang.* [[Paper](https://arxiv.org/abs/2209.08953)][Code]
 
 - **Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense Vision Tasks,** NeurIPS 2022 (arXiv:2210.03265). ![](https://img.shields.io/badge/Polyhistor-blue) ![](https://img.shields.io/badge/Dense_Vision_Tasks-green) ![](https://img.shields.io/badge/MultiTask_Learning-orange)
 
