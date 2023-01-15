@@ -57,6 +57,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Hyojin Bahng, Ali Jahanian, Swami Sankaranarayanan, Phillip Isola.* [[Paper](https://arxiv.org/abs/2203.17274)][[Code](https://github.com/hjbahng/visual_prompting)]
 
+- **Pro-tuning: Unified Prompt Tuning for Vision Tasks,** arXiv:2207.14381. ![](https://img.shields.io/badge/Protuning-blue) ![](https://img.shields.io/badge/Image_Classification-green)
+
+  *Xing Nie, Bolin Ni, Jianlong Chang, Gaomeng Meng, Chunlei Huo, Zhaoxiang Zhang, Shiming Xiang, Qi Tian, Chunhong Pan.* [[Paper](https://arxiv.org/abs/2207.14381)][Code]
+
 - **P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting,** arXiv:2208.02812. ![](https://img.shields.io/badge/P2P-blue) ![](https://img.shields.io/badge/PointCloud-green) ![](https://img.shields.io/badge/2D_to_3D-orange)
 
   *Ziyi Wang, Xumin Yu, Yongming Rao, Jie Zhou, Jiwen Lu.* [[Paper](https://arxiv.org/abs/2208.02812)][[Code](https://github.com/wangzy22/P2P)]
@@ -135,9 +139,17 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Yi-Lin Sung, Jaemin Cho, Mohit Bansal.* [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)]
 
+- **Convolutional Bypasses Are Better Vision Transformer Adapters,** arXiv:2207.07039. ![](https://img.shields.io/badge/Convpass-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Convolution_Inductive_Bias-orange)
+
+  *Shibo Jie, Zhi-Hong Deng.* [[Paper](https://arxiv.org/abs/2207.07039)][[Code](https://github.com/JieShibo/PETL-ViT)]
+
 - **Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022 (arXiv:2210.08823). ![](https://img.shields.io/badge/SSF-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Feature_Scale_&_Shift-orange)
 
   *Dongze Lian, Daquan Zhou, Jiashi Feng, Xinchao Wang.* [[Paper](https://arxiv.org/abs/2210.08823)][[Code](https://github.com/dongzelian/SSF)]
+
+- **FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer,** AAAI 2023 (arXiv:2212.03145). ![](https://img.shields.io/badge/FacT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Tensor_Decomposition-orange)
+
+  *Shibo Jie, Zhi-Hong Deng.* [[Paper](https://arxiv.org/abs/2212.03145)][[Code](https://github.com/JieShibo/PETL-ViT)]
 
 ## Contribution
 
