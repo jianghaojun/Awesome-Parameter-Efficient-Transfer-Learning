@@ -119,6 +119,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Yi-Lin Sung, Jaemin Cho, Mohit Bansal.* [[Paper](https://arxiv.org/abs/2112.06825)][[Code](https://github.com/ylsung/VL_adapter)] ![](https://img.shields.io/badge/VL_Adapter-blue) ![](https://img.shields.io/badge/Image_and_Video_QA,_Caption,_Visual_Reasoning-green) ![](https://img.shields.io/badge/MultiTask_Learning-orange)
 
+- **AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition,** NeurIPS 2022 (arXiv:2205.13535). ![](https://img.shields.io/badge/AdaptFormer-blue) ![](https://img.shields.io/badge/Action_Recognition-green) ![](https://img.shields.io/badge/Temporal_Modeling-orange)
+
+  *Shoufa Chen, Chongjian Ge, Zhan Tong, Jiangliu Wang, Yibing Song, Jue Wang, Ping Luo.* [[Paper](https://arxiv.org/abs/2205.13535)][[Code](https://github.com/ShoufaChen/AdaptFormer)]
+
 - **ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning,** NeurIPS 2022 (arXiv:2206.13559). ![](https://img.shields.io/badge/ST_Adapter-blue) ![](https://img.shields.io/badge/Action_Recognition-green) ![](https://img.shields.io/badge/Temporal_Modeling-orange)
 
   *Junting Pan, Ziyi Lin, Xiatian Zhu, Jing Shao, Hongsheng Li.* [[Paper](https://arxiv.org/abs/2206.13559)][[Code](https://github.com/linziyi96/st-adapter)]
@@ -145,6 +149,10 @@ Unified Autonomous Driving,** NeurIPS 2022 (arXiv:2209.08953). ![](https://img.s
   *Yan-Bo Lin, Yi-Lin Sung, Jie Lei, Mohit Bansal, Gedas Bertasius.* [[Paper](https://arxiv.org/abs/2212.07983)][[Code](https://github.com/GenjiB/LAVISH)]
 
   Take away message: Pre-trained vision transformer can deal with audio data by representing 1D raw audio signal as 2D audio image.
+
+- **Multimodal Video Adapter for Parameter Efficient Video Text Retrieval,** arXiv:2301.07868. ![](https://img.shields.io/badge/MV-Adapter-blue) ![](https://img.shields.io/badge/Text_Video_Retrieval-green) ![](https://img.shields.io/badge/CrossModal-orange)
+
+  *Bowen Zhang, Xiaojie Jin, Weibo Gong, Kai Xu, Zhao Zhang, Peng Wang, Xiaohui Shen, Jiashi Feng.* [[Paper](https://arxiv.org/abs/2301.07868)][Code]
 
 - **SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters**, EMNLP 2022 (arXiv:2210.04284). ![](https://img.shields.io/badge/-SparseAdapter-blue) ![](https://img.shields.io/badge/-GLUE%20Benchmark-green) ![](https://img.shields.io/badge/-Pretrained%20Language%20Model-orange)
  
