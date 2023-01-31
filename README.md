@@ -123,6 +123,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Shoufa Chen, Chongjian Ge, Zhan Tong, Jiangliu Wang, Yibing Song, Jue Wang, Ping Luo.* [[Paper](https://arxiv.org/abs/2205.13535)][[Code](https://github.com/ShoufaChen/AdaptFormer)]
 
+- **Zero-Shot Video Question Answering via Frozen Bidirectional Language Models,** NeurIPS 2022 (arXiv:2206.08155). ![](https://img.shields.io/badge/FrozenBiLM-blue) ![](https://img.shields.io/badge/VQA-green)
+
+  *Antoine Yang, Antoine Miech, Josef Sivic, Ivan Laptev, Cordelia Schmid.* [[Paper](https://arxiv.org/abs/2206.08155)][[Code](https://github.com/antoyang/FrozenBiLM)]
+
 - **ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning,** NeurIPS 2022 (arXiv:2206.13559). ![](https://img.shields.io/badge/ST_Adapter-blue) ![](https://img.shields.io/badge/Action_Recognition-green) ![](https://img.shields.io/badge/Temporal_Modeling-orange)
 
   *Junting Pan, Ziyi Lin, Xiatian Zhu, Jing Shao, Hongsheng Li.* [[Paper](https://arxiv.org/abs/2206.13559)][[Code](https://github.com/linziyi96/st-adapter)]
