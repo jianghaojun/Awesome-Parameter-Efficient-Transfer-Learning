@@ -158,6 +158,10 @@ Unified Autonomous Driving,** NeurIPS 2022 (arXiv:2209.08953). ![](https://img.s
 
   *Bowen Zhang, Xiaojie Jin, Weibo Gong, Kai Xu, Zhao Zhang, Peng Wang, Xiaohui Shen, Jiashi Feng.* [[Paper](https://arxiv.org/abs/2301.07868)][Code]
 
+- **UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling,** arXiv:2302.06605. ![](https://img.shields.io/badge/UniAdapter-blue) ![](https://img.shields.io/badge/Text_Video_Retrieval,_Text_Image_Retrieval,_VideoQA,_VQA-green) ![](https://img.shields.io/badge/CrossModal-orange)
+
+  *Haoyu Lu, Mingyu Ding, Yuqi Huo, Guoxing Yang, Zhiwu Lu, Masayoshi Tomizuka, Wei Zhan.* [[Paper](https://arxiv.org/abs/2302.06605)][[Code](https://github.com/RERV/UniAdapter)]
+
 - **SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters**, EMNLP 2022 (arXiv:2210.04284). ![](https://img.shields.io/badge/-SparseAdapter-blue) ![](https://img.shields.io/badge/-GLUE%20Benchmark-green) ![](https://img.shields.io/badge/-Pretrained%20Language%20Model-orange)
  
   *Shwai He, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao.* [[Paper](https://arxiv.org/pdf/2210.04284.pdf)][[Code](https://github.com/Shwai-He/SparseAdapter)]
