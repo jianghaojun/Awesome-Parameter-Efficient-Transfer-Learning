@@ -135,8 +135,7 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Hao Chen, Ran Tao, Han Zhang, Yidong Wang, Wei Ye, Jindong Wang, Guosheng Hu, Marios Savvides.* [[Paper](https://arxiv.org/abs/2208.07463)][Code]
 
-- **Effective Adaptation in Multi-Task Co-Training for
-Unified Autonomous Driving,** NeurIPS 2022 (arXiv:2209.08953). ![](https://img.shields.io/badge/LV_Adapter-blue) ![](https://img.shields.io/badge/Detection,_Segmentation-green)
+- **Effective Adaptation in Multi-Task Co-Training for Unified Autonomous Driving,** NeurIPS 2022 (arXiv:2209.08953). ![](https://img.shields.io/badge/LV_Adapter-blue) ![](https://img.shields.io/badge/Detection,_Segmentation-green)
 
   *Xiwen Liang, Yangxin Wu, Jianhua Han, Hang Xu, Chunjing Xu, Xiaodan Liang.* [[Paper](https://arxiv.org/abs/2209.08953)][Code]
 
@@ -161,6 +160,14 @@ Unified Autonomous Driving,** NeurIPS 2022 (arXiv:2209.08953). ![](https://img.s
 - **UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling,** arXiv:2302.06605. ![](https://img.shields.io/badge/UniAdapter-blue) ![](https://img.shields.io/badge/Text_Video_Retrieval,_Text_Image_Retrieval,_VideoQA,_VQA-green) ![](https://img.shields.io/badge/CrossModal-orange)
 
   *Haoyu Lu, Mingyu Ding, Yuqi Huo, Guoxing Yang, Zhiwu Lu, Masayoshi Tomizuka, Wei Zhan.* [[Paper](https://arxiv.org/abs/2302.06605)][[Code](https://github.com/RERV/UniAdapter)]
+
+- **Towards Efficient Visual Adaption via Structural Re-parameterization,** arXiv:2302.08106. ![](https://img.shields.io/badge/RepAdapter-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Re-parameterization-orange)
+
+  *Gen Luo, Minglang Huang, Yiyi Zhou, Xiaoshuai Sun, Guannan Jiang, Zhiyu Wang, Rongrong Ji.* [[Paper](https://arxiv.org/abs/2302.08106)][[Code](https://github.com/luogen1996/RepAdapter)]
+
+- **T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models,** arXiv:2302.08453. ![](https://img.shields.io/badge/T2I_Adapter-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Diffusion_Model-orange)
+
+  *Chong Mou, Xintao Wang, Liangbin Xie, Jian Zhang, Zhongang Qi, Ying Shan, Xiaohu Qie.* [[Paper](https://arxiv.org/abs/2302.08453)][[Code](https://github.com/TencentARC/T2I-Adapter)]
 
 - **SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters**, EMNLP 2022 (arXiv:2210.04284). ![](https://img.shields.io/badge/-SparseAdapter-blue) ![](https://img.shields.io/badge/-GLUE%20Benchmark-green) ![](https://img.shields.io/badge/-Pretrained%20Language%20Model-orange)
  
