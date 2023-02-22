@@ -169,6 +169,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Chong Mou, Xintao Wang, Liangbin Xie, Jian Zhang, Zhongang Qi, Ying Shan, Xiaohu Qie.* [[Paper](https://arxiv.org/abs/2302.08453)][[Code](https://github.com/TencentARC/T2I-Adapter)]
 
+- **kNN-Adapter: Efficient Domain Adaptation for Black-Box Language Models,** arXiv:2302.10879. ![](https://img.shields.io/badge/kNN_Adapter-blue) ![](https://img.shields.io/badge/Domain_Adaptation-green) ![](https://img.shields.io/badge/Black_Box_Language_Model-orange)
+
+  *Yangsibo Huang, Daogao Liu, Zexuan Zhong, Weijia Shi, Yin Tat Lee.* [[Paper](https://arxiv.org/abs/2302.10879)][Code]
+
 - **SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters**, EMNLP 2022 (arXiv:2210.04284). ![](https://img.shields.io/badge/-SparseAdapter-blue) ![](https://img.shields.io/badge/-GLUE%20Benchmark-green) ![](https://img.shields.io/badge/-Pretrained%20Language%20Model-orange)
  
   *Shwai He, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao.* [[Paper](https://arxiv.org/pdf/2210.04284.pdf)][[Code](https://github.com/Shwai-He/SparseAdapter)]
