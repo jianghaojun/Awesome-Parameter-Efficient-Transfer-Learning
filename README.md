@@ -157,6 +157,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Bowen Zhang, Xiaojie Jin, Weibo Gong, Kai Xu, Zhao Zhang, Peng Wang, Xiaohui Shen, Jiashi Feng.* [[Paper](https://arxiv.org/abs/2301.07868)][Code]
 
+- **Offsite-Tuning: Transfer Learning without Full Model,** arXiv:2302.04870. ![](https://img.shields.io/badge/Offsite_Tuning-blue) ![](https://img.shields.io/badge/Both_Vision_and_Language_Tasks-green) ![](https://img.shields.io/badge/Privacy-orange)
+
+  *Guangxuan Xiao, Ji Lin, Song Han.* [[Paper](https://arxiv.org/abs/2302.04870)][[Code](https://github.com/mit-han-lab/offsite-tuning)]
+
 - **UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling,** arXiv:2302.06605. ![](https://img.shields.io/badge/UniAdapter-blue) ![](https://img.shields.io/badge/Text_Video_Retrieval,_Text_Image_Retrieval,_VideoQA,_VQA-green) ![](https://img.shields.io/badge/CrossModal-orange)
 
   *Haoyu Lu, Mingyu Ding, Yuqi Huo, Guoxing Yang, Zhiwu Lu, Masayoshi Tomizuka, Wei Zhan.* [[Paper](https://arxiv.org/abs/2302.06605)][[Code](https://github.com/RERV/UniAdapter)]
