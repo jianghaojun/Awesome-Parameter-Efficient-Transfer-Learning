@@ -195,6 +195,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Yuanhan Zhang, Kaiyang Zhou, Ziwei Liu.* [[Paper](https://arxiv.org/abs/2206.04673)][[Code](https://github.com/ZhangYuanhan-AI/NOAH)]
 
+- **Rethinking Efficient Tuning Methods from a Unified Perspective,** arXiv:2303.00690. ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Unified_View-orange)
+
+  *Zeyinzi Jiang, Chaojie Mao, Ziyuan Huang, Yiliang Lv, Deli Zhao, Jingren Zhou.* [[Paper](https://arxiv.org/abs/2303.00690)][Code]
+
 ### Others
 
 - Check out [thunlp/DeltaPapers](https://github.com/thunlp/DeltaPapers) if you are interested in the progress of NLP domain.
