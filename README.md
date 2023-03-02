@@ -113,6 +113,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Junyang Wu, Xianhang Li, Chen Wei, Huiyu Wang, Alan Yuille, Yuyin Zhou, Cihang Xie.* [[Paper](https://arxiv.org/abs/2212.10556)][[Code](https://github.com/UCSC-VLAA/EVP)]
 
+- **Self-Supervised Convolutional Visual Prompts,** arXiv:2303.00198. ![](https://img.shields.io/badge/Out_of_Distribution_Datasets-green) ![](https://img.shields.io/badge/Out_of_Distribution-orange)
+
+  *Yun-Yun Tsai, Chengzhi Mao, Yow-Kuan Lin, Junfeng Yang.* [[Paper](https://arxiv.org/abs/2303.00198)][Code]
+
 ### Adapter
 
 - **VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks,** CVPR 2022 (arXiv:2112.06825). 
