@@ -135,6 +135,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Junting Pan, Ziyi Lin, Xiatian Zhu, Jing Shao, Hongsheng Li.* [[Paper](https://arxiv.org/abs/2206.13559)][[Code](https://github.com/linziyi96/st-adapter)]
 
+- **Convolutional Bypasses Are Better Vision Transformer Adapters,** arXiv:2207.07039. ![](https://img.shields.io/badge/Convpass-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Convolution_Inductive_Bias-orange)
+
+  *Shibo Jie, Zhi-Hong Deng.* [[Paper](https://arxiv.org/abs/2207.07039)][[Code](https://github.com/JieShibo/PETL-ViT)]
+
 - **Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets,** arXiv:2208.07463. ![](https://img.shields.io/badge/Conv_Adapter-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Design_for_ConvNet-orange)
 
   *Hao Chen, Ran Tao, Han Zhang, Yidong Wang, Wei Ye, Jindong Wang, Guosheng Hu, Marios Savvides.* [[Paper](https://arxiv.org/abs/2208.07463)][Code]
@@ -160,6 +164,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 - **Multimodal Video Adapter for Parameter Efficient Video Text Retrieval,** arXiv:2301.07868. ![](https://img.shields.io/badge/MV-Adapter-blue) ![](https://img.shields.io/badge/Text_Video_Retrieval-green) ![](https://img.shields.io/badge/CrossModal-orange)
 
   *Bowen Zhang, Xiaojie Jin, Weibo Gong, Kai Xu, Zhao Zhang, Peng Wang, Xiaohui Shen, Jiashi Feng.* [[Paper](https://arxiv.org/abs/2301.07868)][Code]
+
+- **AIM: Adapting Image Models for Efficient Video Action Recognition,** ICLR 2023 (arXiv:2302.03024). ![](https://img.shields.io/badge/AIM-blue) ![](https://img.shields.io/badge/Action_Recognition-green) ![](https://img.shields.io/badge/Image2Video-orange)
+
+  *Taojiannan Yang, Yi Zhu, Yusheng Xie, Aston Zhang, Chen Chen, Mu Li.* [[Paper](https://arxiv.org/abs/2302.03024)][[Code](https://github.com/taoyang1122/adapt-image-models)]
 
 - **Offsite-Tuning: Transfer Learning without Full Model,** arXiv:2302.04870. ![](https://img.shields.io/badge/Offsite_Tuning-blue) ![](https://img.shields.io/badge/Both_Vision_and_Language_Tasks-green) ![](https://img.shields.io/badge/Privacy-orange)
 
@@ -211,10 +219,6 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Yi-Lin Sung, Jaemin Cho, Mohit Bansal.* [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)]
 
-- **Convolutional Bypasses Are Better Vision Transformer Adapters,** arXiv:2207.07039. ![](https://img.shields.io/badge/Convpass-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Convolution_Inductive_Bias-orange)
-
-  *Shibo Jie, Zhi-Hong Deng.* [[Paper](https://arxiv.org/abs/2207.07039)][[Code](https://github.com/JieShibo/PETL-ViT)]
-
 - **Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022 (arXiv:2210.08823). ![](https://img.shields.io/badge/SSF-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Feature_Scale_&_Shift-orange)
 
   *Dongze Lian, Daquan Zhou, Jiashi Feng, Xinchao Wang.* [[Paper](https://arxiv.org/abs/2210.08823)][[Code](https://github.com/dongzelian/SSF)]
@@ -222,6 +226,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 - **FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer,** AAAI 2023 (arXiv:2212.03145). ![](https://img.shields.io/badge/FacT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Tensor_Decomposition-orange)
 
   *Shibo Jie, Zhi-Hong Deng.* [[Paper](https://arxiv.org/abs/2212.03145)][[Code](https://github.com/JieShibo/PETL-ViT)]
+
+- **Important Channel Tuning,** Openreview. ![](https://img.shields.io/badge/ICT-blue) ![](https://img.shields.io/badge/Image_Classification-green)
+
+  *Hengyuan Zhao, Pichao WANG, Yuyang Zhao, Fan Wang, Mike Zheng Shou.* [[Paper](https://openreview.net/forum?id=TTMyoOdB9hZ)][Code]
 
 ## Contribution
 
