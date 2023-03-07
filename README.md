@@ -114,8 +114,9 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
   *Yun-Yun Tsai, Chengzhi Mao, Yow-Kuan Lin, Junfeng Yang.* [[Paper](https://arxiv.org/abs/2303.00198)][Code]
  
  - **Multimodal Prompting with Missing Modalities for Visual Recognition,** CVPR 2023 (arXiv:2303.03369). ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Missing_Modalities-orange)
+   
+   *Yi-Lun Lee, Yi-Hsuan Tsai, Wei-Chen Chiu, Chen-Yu Lee.* [[Paper](https://arxiv.org/abs/2303.03369)][[Code](https://github.com/YiLunLee/Missing_aware_prompts)]
 
-  *Yi-Lun Lee, Yi-Hsuan Tsai, Wei-Chen Chiu, Chen-Yu Lee.* [[Paper](https://arxiv.org/abs/2303.03369)][[Code](https://github.com/YiLunLee/Missing_aware_prompts)]
 
 ### Adapter
 
