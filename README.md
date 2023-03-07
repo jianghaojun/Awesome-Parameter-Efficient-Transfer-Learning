@@ -236,6 +236,13 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Hengyuan Zhao, Pichao WANG, Yuyang Zhao, Fan Wang, Mike Zheng Shou.* [[Paper](https://openreview.net/forum?id=TTMyoOdB9hZ)][Code]
 
+- **MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering,** arXiv:2303.01239. ![](https://img.shields.io/badge/MixPHM-blue) ![](https://img.shields.io/badge/VQA-green)
+
+  *Jingjing Jiang, Nanning Zheng.* [[Paper](https://arxiv.org/abs/2303.01239)][Code]
+  
+  MixPHM: Redundancy-Aware Parameter-Efficient Tuning for
+Low-Resource Visual Question Answering
+
 ## Contribution
 
 ### Contributors
