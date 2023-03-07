@@ -85,10 +85,6 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Muhammad Uzair Khattak, Hanoona Rasheed, Muhammad Maaz, Salman Khan, Fahad Shahbaz Khan.* [[Paper](https://arxiv.org/abs/2210.03117)][[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)]
 
-- **SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models,** arXiv:2210.03794. ![](https://img.shields.io/badge/SVL_Adapter-blue) ![](https://img.shields.io/badge/Image_Classification-green)
-
-  *Omiros Pantazis, Gabriel Brostow, Kate Jones, Oisin Mac Aodha.* [[Paper](https://arxiv.org/abs/2210.03794)][[Code](https://github.com/omipan/svl_adapter)]
-
 - **Unified Vision and Language Prompt Learning,** arXiv:2210.07225. ![](https://img.shields.io/badge/UPT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Joint_Prompt-orange)
 
   *Yuhang Zang, Wei Li, Kaiyang Zhou, Chen Huang, Chen Change Loy.* [[Paper](https://arxiv.org/abs/2210.07225)][[Code](https://github.com/yuhangzang/UPT)]
@@ -116,6 +112,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 - **Self-Supervised Convolutional Visual Prompts,** arXiv:2303.00198. ![](https://img.shields.io/badge/Out_of_Distribution_Datasets-green) ![](https://img.shields.io/badge/Out_of_Distribution-orange)
 
   *Yun-Yun Tsai, Chengzhi Mao, Yow-Kuan Lin, Junfeng Yang.* [[Paper](https://arxiv.org/abs/2303.00198)][Code]
+ 
+ - **Multimodal Prompting with Missing Modalities for Visual Recognition,** CVPR 2023 (arXiv:2303.03369). ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Missing_Modalities-orange)
+
+  *Yi-Lun Lee, Yi-Hsuan Tsai, Wei-Chen Chiu, Chen-Yu Lee.* [[Paper](https://arxiv.org/abs/2303.03369)][[Code](https://github.com/YiLunLee/Missing_aware_prompts)]
 
 ### Adapter
 
@@ -150,6 +150,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 - **Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense Vision Tasks,** NeurIPS 2022 (arXiv:2210.03265). ![](https://img.shields.io/badge/Polyhistor-blue) ![](https://img.shields.io/badge/Dense_Vision_Tasks-green) ![](https://img.shields.io/badge/MultiTask_Learning-orange)
 
   *Yen-Cheng Liu, Chih-Yao Ma, Junjiao Tian, Zijian He, Zsolt Kira.* [[Paper](https://arxiv.org/abs/2210.03265)][Code]
+
+- **SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models,** arXiv:2210.03794. ![](https://img.shields.io/badge/SVL_Adapter-blue) ![](https://img.shields.io/badge/Image_Classification-green)
+
+  *Omiros Pantazis, Gabriel Brostow, Kate Jones, Oisin Mac Aodha.* [[Paper](https://arxiv.org/abs/2210.03794)][[Code](https://github.com/omipan/svl_adapter)]
 
 - **Cross-Modal Adapter for Text-Video Retrieval,** arXiv:2211.09623. ![](https://img.shields.io/badge/CM_Adapter-blue) ![](https://img.shields.io/badge/Text_Video_Retrieval-green) ![](https://img.shields.io/badge/CrossModal-orange)
 
