@@ -116,6 +116,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
  - **Multimodal Prompting with Missing Modalities for Visual Recognition,** CVPR 2023 (arXiv:2303.03369). ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Missing_Modalities-orange)
    
    *Yi-Lun Lee, Yi-Hsuan Tsai, Wei-Chen Chiu, Chen-Yu Lee.* [[Paper](https://arxiv.org/abs/2303.03369)][[Code](https://github.com/YiLunLee/Missing_aware_prompts)]
+ 
+ - **From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need,** arXiv:2303.05266. ![](https://img.shields.io/badge/SEMAP-blue) ![](https://img.shields.io/badge/Image_Classification-green)
+   
+   *Ziqing Yang, Zeyang Sha, Michael Backes, Yang Zhang.* [[Paper](https://arxiv.org/abs/2303.05266)][Code]
 
 
 ### Adapter
