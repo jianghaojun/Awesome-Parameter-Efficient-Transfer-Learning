@@ -120,6 +120,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
  - **From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need,** arXiv:2303.05266. ![](https://img.shields.io/badge/SEMAP-blue) ![](https://img.shields.io/badge/Image_Classification-green)
    
    *Ziqing Yang, Zeyang Sha, Michael Backes, Yang Zhang.* [[Paper](https://arxiv.org/abs/2303.05266)][Code]
+ 
+  - **Patch-Token Aligned Bayesian Prompt Learning for Vision-Language Models,** arXiv:2303.09100. ![](https://img.shields.io/badge/PBPrompt-blue) ![](https://img.shields.io/badge/Image_Classification-green)
+   
+   *Xinyang Liu, Dongsheng Wang, Miaoge Li, Zhibin Duan, Yishi Xu, Bo Chen, Mingyuan Zhou.* [[Paper](https://arxiv.org/abs/2303.09100)][Code]
 
 
 ### Adapter
