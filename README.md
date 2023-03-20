@@ -120,11 +120,18 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
  - **From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need,** arXiv:2303.05266. ![](https://img.shields.io/badge/SEMAP-blue) ![](https://img.shields.io/badge/Image_Classification-green)
    
    *Ziqing Yang, Zeyang Sha, Michael Backes, Yang Zhang.* [[Paper](https://arxiv.org/abs/2303.05266)][Code]
- 
-  - **Patch-Token Aligned Bayesian Prompt Learning for Vision-Language Models,** arXiv:2303.09100. ![](https://img.shields.io/badge/PBPrompt-blue) ![](https://img.shields.io/badge/Image_Classification-green)
+
+ - **Diversity-Aware Meta Visual Prompting,** CVPR 2023 (arXiv:2303.08138). ![](https://img.shields.io/badge/DAMVP-blue) ![](https://img.shields.io/badge/Image_Classification-green)
+   
+   *Qidong Huang, Xiaoyi Dong, Dongdong Chen, Weiming Zhang, Feifei Wang, Gang Hua, Nenghai Yu.* [[Paper](https://arxiv.org/abs/2303.08138)][[Code](https://github.com/shikiw/DAM-VP)]
+  
+ - **Patch-Token Aligned Bayesian Prompt Learning for Vision-Language Models,** arXiv:2303.09100. ![](https://img.shields.io/badge/PBPrompt-blue) ![](https://img.shields.io/badge/Image_Classification-green)
    
    *Xinyang Liu, Dongsheng Wang, Miaoge Li, Zhibin Duan, Yishi Xu, Bo Chen, Mingyuan Zhou.* [[Paper](https://arxiv.org/abs/2303.09100)][Code]
-
+   
+ - **LION: Implicit Vision Prompt Tuning,** arXiv:2303.09992. ![](https://img.shields.io/badge/LION-blue) ![](https://img.shields.io/badge/Image_Classification-green)
+   
+   *Haixin Wang, Jianlong Chang, Xiao Luo, Jinan Sun, Zhouchen Lin, Qi Tian.* [[Paper](https://arxiv.org/abs/2303.09992)][Code]
 
 ### Adapter
 
