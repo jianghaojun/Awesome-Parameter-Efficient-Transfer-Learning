@@ -133,6 +133,14 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
    
    *Haixin Wang, Jianlong Chang, Xiao Luo, Jinan Sun, Zhouchen Lin, Qi Tian.* [[Paper](https://arxiv.org/abs/2303.09992)][Code]
 
+ - **Visual Prompt Multi-Modal Tracking,** CVPR 2023 (arXiv:2303.10826). ![](https://img.shields.io/badge/ViPT-blue) ![](https://img.shields.io/badge/Tracking-green)
+   
+   *Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang, Huchuan Lu.* [[Paper](https://arxiv.org/abs/2303.10826)][Code]
+   
+ - **Explicit Visual Prompting for Low-Level Structure Segmentations,** CVPR 2023 (arXiv:2303.10883). ![](https://img.shields.io/badge/EVP-blue) ![](https://img.shields.io/badge/Low_Level_Structure_Segmentation-green)
+   
+   *Weihuang Liu, Xi Shen, Chi-Man Pun, Xiaodong Cun.* [[Paper](https://arxiv.org/abs/2303.10826)][[Code](https://github.com/NiFangBaAGe/Explict-Visual-Prompt)]
+
 ### Adapter
 
 - **VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks,** CVPR 2022 (arXiv:2112.06825). 
