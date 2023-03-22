@@ -141,6 +141,12 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
    
    *Weihuang Liu, Xi Shen, Chi-Man Pun, Xiaodong Cun.* [[Paper](https://arxiv.org/abs/2303.10826)][[Code](https://github.com/NiFangBaAGe/Explict-Visual-Prompt)]
 
+ - **Multi-modal Prompting for Low-Shot Temporal Action Localization,** arXiv:2303.11732. ![](https://img.shields.io/badge/Temporal_Action_Localization-green)
+   
+   *Chen Ju, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, Yanfeng Wang, Weidi Xie.* [[Paper](https://arxiv.org/abs/2303.11732)][Code]
+   
+   Highlight: Enrich the meaning of an action class by querying the large-scale language model to give a detailed action description. 
+
 ### Adapter
 
 - **VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks,** CVPR 2022 (arXiv:2112.06825). 
@@ -220,6 +226,12 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 - **Side Adapter Network for Open-Vocabulary Semantic Segmentation,** arXiv:2302.12242. ![](https://img.shields.io/badge/Side_Adapter_Network-blue) ![](https://img.shields.io/badge/Segmentation-green) ![](https://img.shields.io/badge/Open_Vocabulary-orange)
 
   *Mengde Xu, Zheng Zhang, Fangyun Wei, Han Hu, Xiang Bai.* [[Paper](https://arxiv.org/abs/2302.12242)][Code]
+
+ - **Contrastive Alignment of Vision to Language Through Parameter-Efficient Transfer Learning,** ICLR 2023 (arXiv:2303.11866). ![](https://img.shields.io/badge/LilT-blue) ![](https://img.shields.io/badge/Retrieval_and_Classification-green)
+   
+   *Zaid Khan, Yun Fu.* [[Paper](https://arxiv.org/abs/2303.11866)][[Code](https://github.com/codezakh/LilT)]
+   
+   Highlight: Aligning an already-trained vision and language model with adapter.
 
 - **SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters**, EMNLP 2022 (arXiv:2210.04284). ![](https://img.shields.io/badge/-SparseAdapter-blue) ![](https://img.shields.io/badge/-GLUE%20Benchmark-green) ![](https://img.shields.io/badge/-Pretrained%20Language%20Model-orange)
  
