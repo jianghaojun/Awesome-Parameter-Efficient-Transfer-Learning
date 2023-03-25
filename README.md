@@ -132,6 +132,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
  - **LION: Implicit Vision Prompt Tuning,** arXiv:2303.09992. ![](https://img.shields.io/badge/LION-blue) ![](https://img.shields.io/badge/Image_Classification-green)
    
    *Haixin Wang, Jianlong Chang, Xiao Luo, Jinan Sun, Zhouchen Lin, Qi Tian.* [[Paper](https://arxiv.org/abs/2303.09992)][Code]
+   
+ - **Fine-Grained Regional Prompt Tuning for Visual Abductive Reasoning,** arXiv:2303.10428. ![](https://img.shields.io/badge/RGP-blue) ![](https://img.shields.io/badge/Visual_Abductive_Reasoning-green)
+   
+   *Hao Zhang, Basura Fernando.* [[Paper](https://arxiv.org/abs/2303.10428)][Code]
 
  - **Visual Prompt Multi-Modal Tracking,** CVPR 2023 (arXiv:2303.10826). ![](https://img.shields.io/badge/ViPT-blue) ![](https://img.shields.io/badge/Tracking-green)
    
@@ -141,11 +145,17 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
    
    *Weihuang Liu, Xi Shen, Chi-Man Pun, Xiaodong Cun.* [[Paper](https://arxiv.org/abs/2303.10826)][[Code](https://github.com/NiFangBaAGe/Explict-Visual-Prompt)]
 
+ - **CLIP goes 3D: Leveraging Prompt Tuning for Language Grounded 3D Recognition,** arXiv:2303.11313. ![](https://img.shields.io/badge/CG3D-blue) ![](https://img.shields.io/badge/3D_Recognition-green)
+   
+   *Deepti Hegde, Jeya Maria Jose Valanarasu, Vishal M. Patel.* [[Paper](https://arxiv.org/abs/2303.11313)][[Code](https://github.com/deeptibhegde/CLIP-goes-3D)]
+   
+   Comments: This works' idea is similar to our [Text4Point](https://arxiv.org/abs/2301.07584). 
+
  - **Multi-modal Prompting for Low-Shot Temporal Action Localization,** arXiv:2303.11732. ![](https://img.shields.io/badge/Temporal_Action_Localization-green)
    
    *Chen Ju, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, Yanfeng Wang, Weidi Xie.* [[Paper](https://arxiv.org/abs/2303.11732)][Code]
    
-   Highlight: Enrich the meaning of an action class by querying the large-scale language model to give a detailed action description. 
+   Highlight: Enrich the meaning of an action class by querying the large-scale language model to give a detailed action description.
 
 ### Adapter
 
@@ -226,6 +236,12 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 - **Side Adapter Network for Open-Vocabulary Semantic Segmentation,** arXiv:2302.12242. ![](https://img.shields.io/badge/Side_Adapter_Network-blue) ![](https://img.shields.io/badge/Segmentation-green) ![](https://img.shields.io/badge/Open_Vocabulary-orange)
 
   *Mengde Xu, Zheng Zhang, Fangyun Wei, Han Hu, Xiang Bai.* [[Paper](https://arxiv.org/abs/2302.12242)][Code]
+
+ - **Dual-path Adaptation from Image to Video Transformers,** arXiv:2303.09857. ![](https://img.shields.io/badge/DualPath-blue) ![](https://img.shields.io/badge/Action_Recognition-green)
+   
+   *Jungin Park, Jiyoung Lee, Kwanghoon Sohn.* [[Paper](https://arxiv.org/abs/2303.09857)][[Code](https://github.com/park-jungin/DualPath)]
+   
+   Highlight: Modeling temporal information in a seperate path.
 
  - **Contrastive Alignment of Vision to Language Through Parameter-Efficient Transfer Learning,** ICLR 2023 (arXiv:2303.11866). ![](https://img.shields.io/badge/LilT-blue) ![](https://img.shields.io/badge/Retrieval_and_Classification-green)
    
