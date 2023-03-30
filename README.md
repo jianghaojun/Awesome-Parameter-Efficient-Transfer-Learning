@@ -156,6 +156,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
    *Chen Ju, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, Yanfeng Wang, Weidi Xie.* [[Paper](https://arxiv.org/abs/2303.11732)][Code]
    
    Highlight: Enrich the meaning of an action class by querying the large-scale language model to give a detailed action description.
+   
+  - **Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning,** arXiv:2303.15230. ![](https://img.shields.io/badge/Troika-blue) ![](https://img.shields.io/badge/Compositional_Learning-green)
+   
+   *Siteng Huang, Biao Gong, Yutong Feng, Yiliang Lv, Donglin Wang.* [[Paper](https://arxiv.org/abs/2303.15230)][Code]
 
 ### Adapter
 
