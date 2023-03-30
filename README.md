@@ -156,10 +156,16 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
    *Chen Ju, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, Yanfeng Wang, Weidi Xie.* [[Paper](https://arxiv.org/abs/2303.11732)][Code]
    
    Highlight: Enrich the meaning of an action class by querying the large-scale language model to give a detailed action description.
-   
-  - **Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning,** arXiv:2303.15230. ![](https://img.shields.io/badge/Troika-blue) ![](https://img.shields.io/badge/Compositional_Learning-green)
+ 
+ - **Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning,** arXiv:2303.15230. ![](https://img.shields.io/badge/Troika-blue) ![](https://img.shields.io/badge/Compositional_Learning-green)
    
    *Siteng Huang, Biao Gong, Yutong Feng, Yiliang Lv, Donglin Wang.* [[Paper](https://arxiv.org/abs/2303.15230)][Code]
+   
+ - **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention,** arXiv:2303.16199. ![](https://img.shields.io/badge/LLaMA_Adapter-blue) ![](https://img.shields.io/badge/ChatBot-green)
+   
+   *Renrui Zhang, Jiaming Han, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Peng Gao, Yu Qiao.* [[Paper](https://arxiv.org/abs/2303.16199)][[Code](https://github.com/ZrrSkywalker/LLaMA-Adapter)]
+   
+   Highlight: Tuning the LLaMA(7B Params) to an excellent ChatBot with only 1.2M trainable parameters and 1 hour fine-tuning.
 
 ### Adapter
 
