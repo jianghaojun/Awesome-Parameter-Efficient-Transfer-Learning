@@ -167,6 +167,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
    
    Highlight: Tuning the LLaMA(7B Params) to an excellent ChatBot with only 1.2M trainable parameters and 1 hour fine-tuning.
 
+ - **Probabilistic Prompt Learning for Dense Prediction,** arXiv:2304.00779. ![](https://img.shields.io/badge/Dense_Prediction-green)
+   
+   *Hyeongjun Kwon, Taeyong Song, Somi Jeong, Jin Kim, Jinhyun Jang, Kwanghoon Sohn.* [[Paper](https://arxiv.org/abs/2304.00779)]
+
 ### Adapter
 
 - **VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks,** CVPR 2022 (arXiv:2112.06825). 
@@ -258,6 +262,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
    *Zaid Khan, Yun Fu.* [[Paper](https://arxiv.org/abs/2303.11866)][[Code](https://github.com/codezakh/LilT)]
    
    Highlight: Aligning an already-trained vision and language model with adapter.
+   
+ - **A Closer Look at Parameter-Efficient Tuning in Diffusion Models,** arXiv:2303.18181. ![](https://img.shields.io/badge/Diffusion_Model-green)
+   
+   *Chendong Xiang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu.* [[Paper](https://arxiv.org/abs/2303.18181)]
 
 - **SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters**, EMNLP 2022 (arXiv:2210.04284). ![](https://img.shields.io/badge/-SparseAdapter-blue) ![](https://img.shields.io/badge/-GLUE%20Benchmark-green) ![](https://img.shields.io/badge/-Pretrained%20Language%20Model-orange)
  
