@@ -9,7 +9,7 @@ A collection of parameter-efficient transfer learning papers focusing on compute
   - [Prompt](#prompt)
   - [Adapter](#adapter)
   - [Unified](#unified)
-  - [Ohters](#others)
+  - [Others](#others)
 - [Contribution](#contribution)
   - [Contributors](#contributors)
   - [Contributing to this paper list](#contributing-to-this-paper-list)
@@ -17,7 +17,7 @@ A collection of parameter-efficient transfer learning papers focusing on compute
 
 ## Why Parameter Efficient?
 
-Pre-training, then fully fine-tuning is a long standing paradigm in deep learning. However, as pre-trained models are scaling up, *e.g.* GPT-3(175B params), fully fine-tuning them on various downstream tasks has a high risk of overfitting. Moreover, in practice, it would be costly to train and store a large model for each task. To overcome the above issues, researchers started to explore **Parameter-Efficient Transfer Learning** which aims at adapting large-scale pre-trained model to various downstream tasks by modifying as less parameter as possible.Inspired by the great advances in NLP domain and the continuous trend of scaling up models, scholars in computer vision and multimodal domains also join the research craze.
+Pre-training, then fully fine-tuning is a long standing paradigm in deep learning. However, as pre-trained models are scaling up, *e.g.* GPT-3(175B params), fully fine-tuning them on various downstream tasks has a high risk of overfitting. Moreover, in practice, it would be costly to train and store a large model for each task. To overcome the above issues, researchers started to explore **Parameter-Efficient Transfer Learning** which aims at adapting large-scale pre-trained model to various downstream tasks by modifying as less parameter as possible. Inspired by the great advances in NLP domain and the continuous trend of scaling up models, scholars in computer vision and multimodal domains also join the research craze.
 
 ## Keywords Convention
 
@@ -255,7 +255,7 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
    
    *Jungin Park, Jiyoung Lee, Kwanghoon Sohn.* [[Paper](https://arxiv.org/abs/2303.09857)][[Code](https://github.com/park-jungin/DualPath)]
    
-   Highlight: Modeling temporal information in a seperate path.
+   Highlight: Modeling temporal information in a separate path.
 
  - **Contrastive Alignment of Vision to Language Through Parameter-Efficient Transfer Learning,** ICLR 2023 (arXiv:2303.11866). ![](https://img.shields.io/badge/LilT-blue) ![](https://img.shields.io/badge/Retrieval_and_Classification-green)
    
