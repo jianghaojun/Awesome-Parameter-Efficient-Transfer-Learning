@@ -266,10 +266,14 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
  - **A Closer Look at Parameter-Efficient Tuning in Diffusion Models,** arXiv:2303.18181. ![](https://img.shields.io/badge/Diffusion_Model-green)
    
    *Chendong Xiang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu.* [[Paper](https://arxiv.org/abs/2303.18181)]
-
-- **SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters**, EMNLP 2022 (arXiv:2210.04284). ![](https://img.shields.io/badge/-SparseAdapter-blue) ![](https://img.shields.io/badge/-GLUE%20Benchmark-green) ![](https://img.shields.io/badge/-Pretrained%20Language%20Model-orange)
+   
+ - **SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters**, EMNLP 2022 (arXiv:2210.04284). ![](https://img.shields.io/badge/-SparseAdapter-blue) ![](https://img.shields.io/badge/-GLUE%20Benchmark-green) ![](https://img.shields.io/badge/-Pretrained%20Language%20Model-orange)
  
-  *Shwai He, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao.* [[Paper](https://arxiv.org/pdf/2210.04284.pdf)][[Code](https://github.com/Shwai-He/SparseAdapter)]
+   *Shwai He, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao.* [[Paper](https://arxiv.org/pdf/2210.04284.pdf)][[Code](https://github.com/Shwai-He/SparseAdapter)]
+  
+ - **Parameter-efficient Model Adaptation for Vision Transformers**, AAAI 2023 (arXiv:2203.16329). ![](https://img.shields.io/badge/-PEViT-blue) ![](https://img.shields.io/badge/-Image_Classification-green) ![](https://img.shields.io/badge/-KAdaptation-orange)
+  
+   *Xuehai He, Chunyuan Li, Pengchuan Zhang, Jianwei Yang, Xin Eric Wang.* [[Paper](https://arxiv.org/abs/2203.16329)][[Code](https://github.com/eric-ai-lab/PEViT)]
 
 ### Unified
 
@@ -308,9 +312,6 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 - **MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering,** arXiv:2303.01239. ![](https://img.shields.io/badge/MixPHM-blue) ![](https://img.shields.io/badge/VQA-green)
 
   *Jingjing Jiang, Nanning Zheng.* [[Paper](https://arxiv.org/abs/2303.01239)][Code]
-  
-  MixPHM: Redundancy-Aware Parameter-Efficient Tuning for
-Low-Resource Visual Question Answering
 
 ## Contribution
 
