@@ -171,6 +171,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
    
    *Hyeongjun Kwon, Taeyong Song, Somi Jeong, Jin Kim, Jinhyun Jang, Kwanghoon Sohn.* [[Paper](https://arxiv.org/abs/2304.00779)]
 
+ - **Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models,** arXiv:2304.07221. ![](https://img.shields.io/badge/IDPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green)
+   
+   *Yaohua Zha, Jinpeng Wang, Tao Dai, Bin Chen, Zhi Wang, Shu-Tao Xia.* [[Paper](https://arxiv.org/abs/2304.07221)][[Code](https://github.com/zyh16143998882/IDPT)]
+
 ### Adapter
 
 - **VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks,** CVPR 2022 (arXiv:2112.06825). 
