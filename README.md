@@ -312,10 +312,11 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 - **MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering,** arXiv:2303.01239. ![](https://img.shields.io/badge/MixPHM-blue) ![](https://img.shields.io/badge/VQA-green)
 
   *Jingjing Jiang, Nanning Zheng.* [[Paper](https://arxiv.org/abs/2303.01239)][Code]
-  
-  MixPHM: Redundancy-Aware Parameter-Efficient Tuning for
-Low-Resource Visual Question Answering
 
+- **Revisit Parameter-Efficient Transfer Learning: A Two-Stage Paradigm,** arXiv:2303.07910. ![](https://img.shields.io/badge/Image_Classification-green)
+
+  *Hengyuan Zhao, Hao Luo, Yuyang Zhao, Pichao Wang, Fan Wang, Mike Zheng Shou.* [[Paper](https://arxiv.org/abs/2303.07910)][Code]
+  
 ## Contribution
 
 ### Contributors
