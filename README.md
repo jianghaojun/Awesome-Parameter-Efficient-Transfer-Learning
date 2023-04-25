@@ -285,7 +285,7 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Yuanhan Zhang, Kaiyang Zhou, Ziwei Liu.* [[Paper](https://arxiv.org/abs/2206.04673)][[Code](https://github.com/ZhangYuanhan-AI/NOAH)]
 
-- **AutoPEFT: Automatic Configuration Search for Parameter-Efficient Fine-Tuning,** arXiv:2301.12132. ![](https://img.shields.io/badge/_Text_Classification-green) ![](https://img.shields.io/badge/Unified_Search_Framework-orange)
+- **AutoPEFT: Automatic Configuration Search for Parameter-Efficient Fine-Tuning,** arXiv:2301.12132. ![](https://img.shields.io/badge/AutoPEFT-blue) ![](https://img.shields.io/badge/_Text_Classification-green) ![](https://img.shields.io/badge/Unified_Search_Framework-orange)
 
   *Han Zhou, Xingchen Wan, Ivan Vulić, Anna Korhonen.* [[Paper](https://arxiv.org/abs/2301.12132)][[Code](https://github.com/cambridgeltl/autopeft)]
 
