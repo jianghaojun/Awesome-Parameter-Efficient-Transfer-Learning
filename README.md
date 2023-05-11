@@ -170,6 +170,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
  - **Probabilistic Prompt Learning for Dense Prediction,** arXiv:2304.00779. ![](https://img.shields.io/badge/Dense_Prediction-green)
    
    *Hyeongjun Kwon, Taeyong Song, Somi Jeong, Jin Kim, Jinhyun Jang, Kwanghoon Sohn.* [[Paper](https://arxiv.org/abs/2304.00779)]
+   
+ - **Zero-shot Generative Model Adaptation via Image-specific Prompt Learning,** arXiv:2304.03119. ![](https://img.shields.io/badge/IPL-blue) ![](https://img.shields.io/badge/Image_Synthesis-green)
+   
+   *Jiayi Guo, Chaofei Wang, You Wu, Eric Zhang, Kai Wang, Xingqian Xu, Shiji Song, Humphrey Shi, Gao Huang.* [[Paper](https://arxiv.org/abs/2304.03119)][[Code](https://github.com/Picsart-AI-Research/IPL-Zero-Shot-Generative-Model-Adaptation)]
 
  - **Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models,** arXiv:2304.07221. ![](https://img.shields.io/badge/IDPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green)
    
