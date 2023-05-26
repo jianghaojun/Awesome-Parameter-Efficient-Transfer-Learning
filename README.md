@@ -179,6 +179,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
    
    *Yaohua Zha, Jinpeng Wang, Tao Dai, Bin Chen, Zhi Wang, Shu-Tao Xia.* [[Paper](https://arxiv.org/abs/2304.07221)][[Code](https://github.com/zyh16143998882/IDPT)]
 
+ - **PVP: Pre-trained Visual Parameter-Efficient Tuning,** arXiv:2304.13639. ![](https://img.shields.io/badge/PVP-blue) ![](https://img.shields.io/badge/Image_Classification-green)
+   
+   *Zhao Song, Ke Yang, Naiyang Guan, Junjie Zhu, Peng Qiao, Qingyong Hu.* [[Paper](https://arxiv.org/abs/2304.13639)][Code]
+
 ### Adapter
 
 - **VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks,** CVPR 2022 (arXiv:2112.06825). 
