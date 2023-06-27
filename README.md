@@ -283,9 +283,13 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
  
    *Shwai He, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao.* [[Paper](https://arxiv.org/pdf/2210.04284.pdf)][[Code](https://github.com/Shwai-He/SparseAdapter)]
   
- - **Parameter-efficient Model Adaptation for Vision Transformers**, AAAI 2023 (arXiv:2203.16329). ![](https://img.shields.io/badge/-PEViT-blue) ![](https://img.shields.io/badge/-Image_Classification-green) ![](https://img.shields.io/badge/-KAdaptation-orange)
+ - **Parameter-efficient Model Adaptation for Vision Transformers**, AAAI 2023 (arXiv:2203.16329). ![](https://img.shields.io/badge/PEViT-blue) ![](https://img.shields.io/badge/-Image_Classification-green) ![](https://img.shields.io/badge/-KAdaptation-orange)
   
    *Xuehai He, Chunyuan Li, Pengchuan Zhang, Jianwei Yang, Xin Eric Wang.* [[Paper](https://arxiv.org/abs/2203.16329)][[Code](https://github.com/eric-ai-lab/PEViT)]
+
+ - **TaCA: Upgrading Your Visual Foundation Model with Task-agnostic Compatible Adapter**, arXiv:2306.12642. ![](https://img.shields.io/badge/-TaCA-blue) ![](https://img.shields.io/badge/-Video_Text_Retrieval_,_Video_Recognition_,_Visual_Question_Answering-green) 
+  
+   *Binjie Zhang, Yixiao Ge, Xuyuan Xu, Ying Shan, Mike Zheng Shou.* [[Paper](https://arxiv.org/abs/2306.12642)][[Code](https://github.com/TencentARC/TaCA)]
 
 ### Unified
 
