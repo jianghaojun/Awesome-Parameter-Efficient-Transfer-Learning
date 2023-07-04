@@ -183,6 +183,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
    
    *Zhao Song, Ke Yang, Naiyang Guan, Junjie Zhu, Peng Qiao, Qingyong Hu.* [[Paper](https://arxiv.org/abs/2304.13639)][Code]
 
+ - **Approximated Prompt Tuning for Vision-Language Pre-trained Models,** arXiv:2306.15706. ![](https://img.shields.io/badge/APT-blue) ![](https://img.shields.io/badge/VQA_,_Visual_Reasoning_,_Retrieval-green)
+   
+   *Qiong Wu, Shubin Huang, Yiyi Zhou, Pingyang Dai, Annan Shu, Guannan Jiang, Rongrong Ji.* [[Paper](https://arxiv.org/abs/2306.15706)][Code]
+
 ### Adapter
 
 - **VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks,** CVPR 2022 (arXiv:2112.06825). 
