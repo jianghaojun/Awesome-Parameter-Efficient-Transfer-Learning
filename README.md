@@ -317,6 +317,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Zeyinzi Jiang, Chaojie Mao, Ziyuan Huang, Yiliang Lv, Deli Zhao, Jingren Zhou.* [[Paper](https://arxiv.org/abs/2303.00690)][Code]
 
+- **VL-PET: Vision-and-Language Parameter-Efficient Tuning via Granularity Control,** arXiv:2308.09804. ![](https://img.shields.io/badge/VL_PET-blue)![](https://img.shields.io/badge/VQA_,_Image_Caption_,_Visual_Reasoning_,_Video_Caption-green) ![](https://img.shields.io/badge/Granularity_Control-orange)
+
+  *Zi-Yuan Hu, Yanyang Li, Michael R. Lyu, Liwei Wang.* [[Paper](https://arxiv.org/abs/2308.09804)][[Code](https://github.com/HenryHZY/VL-PET)]
+
 ### Others
 
 - Check out [thunlp/DeltaPapers](https://github.com/thunlp/DeltaPapers) if you are interested in the progress of NLP domain.
