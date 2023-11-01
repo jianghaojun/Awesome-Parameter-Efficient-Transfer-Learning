@@ -187,6 +187,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
    
    *Qiong Wu, Shubin Huang, Yiyi Zhou, Pingyang Dai, Annan Shu, Guannan Jiang, Rongrong Ji.* [[Paper](https://arxiv.org/abs/2306.15706)][Code]
 
+ - **Parameter-efficient Tuning of Large-scale Multimodal Foundation Model,** arXiv:2305.08381. ![](https://img.shields.io/badge/Aurora-blue) ![](https://img.shields.io/badge/VQA_,_Image_Text_Retrieval_,_Video_Text_Retrieval-green)
+   
+   *Haixin Wang, Xinlong Yang, Jianlong Chang, Dian Jin, Jinan Sun, Shikun Zhang, Xiao Luo, Qi Tian.* [[Paper](https://arxiv.org/abs/2305.08381)][[Code](https://github.com/WillDreamer/Aurora)]
+
 ### Adapter
 
 - **VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks,** CVPR 2022 (arXiv:2112.06825). 
