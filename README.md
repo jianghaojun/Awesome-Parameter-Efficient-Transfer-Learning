@@ -193,9 +193,9 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   - **Hierarchical Prompt Learning for Multi-Task Learning,**  CVPR 2023 ![](https://img.shields.io/badge/Image_Classification-green)
 
-    *Yajing Liu, Yuning Lu, Hao Liu, Yaozu An, Zhuoran Xu, Zhuokun Yao.* [[Paper]([https://arxiv.org/abs/2305.08381](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.pdf))][Code]
+    *Yajing Liu, Yuning Lu, Hao Liu, Yaozu An, Zhuoran Xu, Zhuokun Yao.* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.pdf)][Code]
 
-    - **Focus Your Attention when Few-Shot Classification** NeurIPS 2023 ![](https://img.shields.io/badge/Image_Classification-green)
+  - **Focus Your Attention when Few-Shot Classification** NeurIPS 2023 ![](https://img.shields.io/badge/Image_Classification-green)
     
     *Haoqing Wang, Shibo Jie, Zhi-Hong Deng.* [[Paper](https://nips.cc/media/neurips-2023/Slides/70162.pdf)][[Code](https://github.com/Haoqing-Wang/FORT)]
 
