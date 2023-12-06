@@ -350,7 +350,9 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
   *Hengyuan Zhao, Hao Luo, Yuyang Zhao, Pichao Wang, Fan Wang, Mike Zheng Shou.* [[Paper](https://arxiv.org/abs/2303.07910)][Code]
 
 - **Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning** CVPR 2023 (arXiv2212.03220) ![](https://img.shields.io/badge/Image_Classification-green)
-  *Cheng-Hao Tu, Zheda Mai, Wei-Lun Chao* [Paper](https://arxiv.org/abs/2212.03220)][Code](https://github.com/andytu28/VQT)
+
+  *Cheng-Hao Tu, Zheda Mai, Wei-Lun Chao.*  [Paper](https://arxiv.org/abs/2212.03220)][Code](https://github.com/andytu28/VQT)
+
   
 ## Contribution
 
