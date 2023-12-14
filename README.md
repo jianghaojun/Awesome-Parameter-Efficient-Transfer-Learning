@@ -363,6 +363,9 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Cheng-Hao Tu, Zheda Mai, Wei-Lun Chao.*  [[Paper](https://arxiv.org/abs/2212.03220)][[Code](https://github.com/andytu28/VQT)]
 
+- **DTL: Disentangled Transfer Learning for Visual Recognition,** AAAI 2024 (arXiv:2312.07856). ![](https://img.shields.io/badge/DTL-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Disentangled-orange)
+
+  *Minghao Fu, Ke Zhu, Jianxin Wu.* [[Paper](https://arxiv.org/abs/2312.07856)][Code]
   
 ## Contribution
 
