@@ -309,6 +309,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
   
    *Binjie Zhang, Yixiao Ge, Xuyuan Xu, Ying Shan, Mike Zheng Shou.* [[Paper](https://arxiv.org/abs/2306.12642)][[Code](https://github.com/TencentARC/TaCA)]
 
+- **Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis**, CVPR 2024.  ![](https://img.shields.io/badge/DAPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
+
+  *Xin Zhou , Dingkang Liang , Wei Xu, Xingkui Zhu ,Yihan Xu, Zhikang Zou, Xiang Bai.* [[Paper](https://arxiv.org/abs/2403.01439)][[Code](https://github.com/LMD0311/DAPT)]
+
 ### Unified
 
 - **Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022 (arXiv:2110.04366). ![](https://img.shields.io/badge/Translation,_Summarization,_Language_Understanding,_Text_Classification-green) ![](https://img.shields.io/badge/Unified_View-orange)
