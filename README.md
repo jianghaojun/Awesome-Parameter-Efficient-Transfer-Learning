@@ -309,6 +309,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
   
    *Binjie Zhang, Yixiao Ge, Xuyuan Xu, Ying Shan, Mike Zheng Shou.* [[Paper](https://arxiv.org/abs/2306.12642)][[Code](https://github.com/TencentARC/TaCA)]
 
+- **GraphAdapter: Tuning Vision-Language Models with Dual Knowledge Graph**, NeurIPS 2023. ![](https://img.shields.io/badge/-Image_Classification-green)
+
+  *Xin Li, Dongze Lian, Zhihe Lu, Jiawang Bai, Zhibo Chen, Xinchao Wang.* [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/2b25c39788e5cf11d3541de433ebf4c0-Paper-Conference.pdf)][[Code](https://github.com/lixinustc/GraphAdapter)]
+
 - **Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis**, CVPR 2024.  ![](https://img.shields.io/badge/DAPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
 
   *Xin Zhou , Dingkang Liang , Wei Xu, Xingkui Zhu ,Yihan Xu, Zhikang Zou, Xiang Bai.* [[Paper](https://arxiv.org/abs/2403.01439)][[Code](https://github.com/LMD0311/DAPT)]
@@ -367,9 +371,17 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Cheng-Hao Tu, Zheda Mai, Wei-Lun Chao.*  [[Paper](https://arxiv.org/abs/2212.03220)][[Code](https://github.com/andytu28/VQT)]
 
+- **Task Residual for Tuning Vision-Language Models**, CVPR 2023. ![](https://img.shields.io/badge/-Image_Classification-green)
+
+  *Tao Yu, Zhihe Lu, Xin Jin, Zhibo Chen, Xinchao Wang.* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Task_Residual_for_Tuning_Vision-Language_Models_CVPR_2023_paper.pdf)][[Code](https://github.com/geekyutao/TaskRes)]
+
 - **DTL: Disentangled Transfer Learning for Visual Recognition,** AAAI 2024 (arXiv:2312.07856). ![](https://img.shields.io/badge/DTL-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Disentangled-orange)
 
   *Minghao Fu, Ke Zhu, Jianxin Wu.* [[Paper](https://arxiv.org/abs/2312.07856)][Code]
+  
+- **Beyond Sole Strength: Customized Ensembles for Generalized Vision-Language Models**, ICML 2024. ![](https://img.shields.io/badge/-Image_Classification-green)
+
+  *Zhihe Lu, Jiawang Bai, Xin Li, Zeyu Xiao, Xinchao Wang.* [[Paper](https://arxiv.org/pdf/2311.17091)][[Code](https://github.com/zhiheLu/Ensemble_VLM)]
   
 ## Contribution
 
