@@ -199,7 +199,9 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
     
     *Haoqing Wang, Shibo Jie, Zhi-Hong Deng.* [[Paper](https://nips.cc/media/neurips-2023/Slides/70162.pdf)][[Code](https://github.com/Haoqing-Wang/FORT)]
 
-
+  - **DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval,** AAAI 2024 ![](https://img.shields.io/badge/Text_Video_Retrieval-green)
+    
+    *Xiangpeng Yang, Linchao Zhu, Xiaohan Wang, Yi Yang.* [[Paper](https://arxiv.org/abs/2401.10588)][[Code](https://github.com/knightyxp/DGL)]
 
 ### Adapter
 
