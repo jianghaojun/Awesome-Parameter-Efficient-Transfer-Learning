@@ -341,6 +341,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Zi-Yuan Hu, Yanyang Li, Michael R. Lyu, Liwei Wang.* [[Paper](https://arxiv.org/abs/2308.09804)][[Code](https://github.com/HenryHZY/VL-PET)]
 
+- **Introducing Routing Functions to Vision-Language Parameter-Efficient Fine-Tuning with Low-Rank Bottlenecks,** ECCV 2024. ![](https://img.shields.io/badge/Routing_VL_PEFT-blue)![](https://img.shields.io/badge/VQA_,_Image_Caption_,_Visual_Reasoning_-green) ![](https://img.shields.io/badge/Routing_,_Low_Rank_Bottlenecks-orange)
+
+  *Tingyu Qu, Tinne Tuytelaars, Marie-Francine Moens.* [[Paper]](https://arxiv.org/abs/2403.09377) [[Code]](https://github.com/tingyu215/Routing_VLPEFT)
+
 ### Others
 
 - Check out [thunlp/DeltaPapers](https://github.com/thunlp/DeltaPapers) if you are interested in the progress of NLP domain.
