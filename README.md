@@ -389,6 +389,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Zhihe Lu, Jiawang Bai, Xin Li, Zeyu Xiao, Xinchao Wang.* [[Paper](https://arxiv.org/pdf/2311.17091)][[Code](https://github.com/zhiheLu/Ensemble_VLM)]
   
+- **S₀ Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models,** arXiv 2026. ![](https://img.shields.io/badge/S₀_Tuning-blue) ![](https://img.shields.io/badge/Code_Generation-green) ![](https://img.shields.io/badge/Recurrent_State-orange)
+
+  *Jack Young.* [[Paper](https://arxiv.org/abs/2604.01168)][[Code](https://github.com/JackYoung27/s0-tuning)]
+
 ## Contribution
 
 ### Contributors
@@ -409,6 +413,3 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 ## Acknowledgement
 
 The structure of this repository is following [thunlp/DeltaPapers](https://github.com/thunlp/DeltaPapers) which focuses on collecting awesome parameter-efficient transfer learning papers in nature language processing domain. Check out their repository if you are interested in the progress of NLP domain.
-
-
-
