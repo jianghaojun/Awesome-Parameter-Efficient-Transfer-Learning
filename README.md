@@ -203,6 +203,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
     
     *Xiangpeng Yang, Linchao Zhu, Xiaohan Wang, Yi Yang.* [[Paper](https://arxiv.org/abs/2401.10588)][[Code](https://github.com/knightyxp/DGL)]
 
+- **Efficient Test-Time Prompt Tuning for Vision-Language Models,** IJCV 2026. ![](https://img.shields.io/badge/Self--TPT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
+
+  *Yuhan Zhu, Guozhen Zhang, Chen Xu, Haocheng Shen, Xiaoxin Chen, Gangshan Wu, Limin Wang.* [[Paper](https://link.springer.com/article/10.1007/s11263-026-03019-3)][[arXiv](https://arxiv.org/abs/2408.05775)]
+
 ### Adapter
 
 - **VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks,** CVPR 2022 (arXiv:2112.06825). 
@@ -318,6 +322,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 - **Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis**, CVPR 2024.  ![](https://img.shields.io/badge/DAPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
 
   *Xin Zhou , Dingkang Liang , Wei Xu, Xingkui Zhu ,Yihan Xu, Zhikang Zou, Xiang Bai.* [[Paper](https://arxiv.org/abs/2403.01439)][[Code](https://github.com/LMD0311/DAPT)]
+
+- **AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation,** NeurIPS 2024. ![](https://img.shields.io/badge/AWT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Multimodal_Adapter-orange)
+
+  *Yuhan Zhu, Yuyang Ji, Zhiyu Zhao, Gangshan Wu, Limin Wang.* [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html)][[Code](https://github.com/MCG-NJU/AWT)]
 
 ### Unified
 
